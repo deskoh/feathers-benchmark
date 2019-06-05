@@ -1,0 +1,21 @@
+{
+  "name": "feathers-load",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/client": "^3.7.8",
+    "clui": "^0.3.6",
+    "commander": "^2.20.0",
+    "node-fetch": "^2.6.0",
+    "socket.io-client": "^2.2.0",
+    "winston": "^3.2.1",
+    "worker-farm": "^1.7.0"
+  }
+}
